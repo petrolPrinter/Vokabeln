@@ -1,6 +1,6 @@
 [
     {
-        "Organisation": {
+        "Variante 1": {
           "1": {
             "Frage": "Welche Aufgaben hat die Feuerwehr?",
             "Antwort": "Dem Einzelnen und der Allgemeinheit in Brandgefahren und bei sonstigen Notständen beizustehen. Menschen und Tiere zu retten und zu schützen. Güter zu bergen, Brände zu bekämpfen und technische Hilfe zu leisten."
@@ -146,7 +146,7 @@
             "Antwort": "FM/FF = Feuerwehrmann/frau, OFM/OFF = Oberfeuerwehrmann/frau, HFM/HFF = Hauptfeuerwehrmann/frau, BM = Brandmeister/in, GBM = Gemeindebrandmeister/in, KBM = Kreisbrandmeister/in, BBM = Bezirksbrandmeister/in, Jfm = Jugendfeuerwehrmitglied, JFW = Jugendfeuerwehrwart/in, GJFW = Gemeinde-Jugendfeuerwehrwart/in, KJFW = Kreis-Jugendfeuerwehrwart/in, BJFW = Bezirks-Jugendfeuerwehrwart/in, LJFW = Landes-Jugendfeuerwehrwart/in, BJL = Bundesjugendleiter/in, BJS = Bundesjugendsekretär/in"
           }
         },
-        "Ausrüstung u. Geräte": {
+        "Variante 2": {
           "1": {
             "Frage": "Was ist ein Löschfahrzeug?",
             "Antwort": "Löschfahrzeuge sind für die Brandbekämpfung besonders gestaltete und zur Aufnahme einer Besatzung und einer feuerwehrtechnischen Beladung eingerichtete Kraftfahrzeuge."
@@ -280,7 +280,7 @@
             "Antwort": "Zur schnellen Auffindung von Hydranten werden Hydranten-Hinweisschilder angebracht. Es sind rechteckige weiße Schilder mit rotem Rand und schwarzer Schrift."
           }
         },
-        "Löschmittel und Löschverfahren der Feuerwehr": {
+        "Variante 3": {
           "1": {
             "Frage": "Wozu wird die Kübelspritze benötigt?",
             "Antwort": "Zur Bekämpfung von kleinen Entstehungsbränden und zum Ablöschen kleiner Brandnester bei Aufräumungsarbeiten auf Brandstellen."
@@ -322,7 +322,7 @@
             "Antwort": "Feuerwehr: 112, Polizei: 110"
           }
         },
-        "Unfallverhütung": {
+        "Variante 4": {
           "1": {
             "Frage": "Nach welchen Richtlinien ist der Unfallschutz im Feuerwehrdienst festgelegt? Und wo gilt diese Richtlinie?",
             "Antwort": "Dieses ist festgelegt in der 'Unfallverhütungsvorschrift Feuerwehren' (UVV). Sie gilt bei Ausbildungen, Übungen, Einsätzen sowie für Feuerwehr-Einrichtungen und Feuerwehr-Geräte."
@@ -364,7 +364,7 @@
             "Antwort": "Ja, nach den Strafbestimmungen der Reichsversicherungsordnung!"
           }
         },
-        "Gesellschafts- und Jugendpolitik": {
+        "Variante 5": {
           "1": {
             "Frage": "Ist der Gemeinde- bzw. Stadtdirektor ein gewählter Kommunalvertreter oder ein auf Zeit gewählter Beamter?",
             "Antwort": "Er ist ein auf Zeit gewählter Beamter."
